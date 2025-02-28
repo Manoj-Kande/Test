@@ -108,6 +108,7 @@ const ReferralBenefits = () => {
 
         <div className="w-[15%] h-[10%] mx-[45%]    rounded-[2px]  " >
           <Button text={"Refer Now"}
+          
               bgColor={"#1A73E8"}
               color={"white"} ></Button>
         </div>
